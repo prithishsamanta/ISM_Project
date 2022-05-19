@@ -5,4 +5,4 @@ The major goal of this project is to demonstrate how we can prevent the attacker
 
 For accessing the main project, follow this link: https://github.com/prithishsamanta/ISM_Project/tree/master/Main_Project
 
-Contributers: Prithish Samanta, Anchit Agarwal, Ritvik Kohli
+Contributors: Prithish Samanta, Anchit Agarwal, Ritvik Kohli
